@@ -1,4 +1,3 @@
-# Desafio-da-DIO-GFT-02-Verificacao-de-Numero-de-Conta-Bancaria
 # <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Desafio da DIO GFT 02 - Verificação de Número de Conta Bancária
 www.dio.me
 
